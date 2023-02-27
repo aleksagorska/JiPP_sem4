@@ -3,17 +3,7 @@ class Zadanie1
 {
 
     public static void Main(string[] args)
-    {
-        int UserNumber;
-        Console.Write("Podaj liczbę od 1 do 1000: ");
-        UserNumber = Convert.ToInt32(Console.ReadLine());
-        while (UserNumber < 1 || UserNumber > 1000)
-        {
-            Console.Write("Uwaga! Liczba musi być w przedziale między 1 a 1000: ");
-            UserNumber = Convert.ToInt32(Console.ReadLine());
-        }
-
-        string newWord = NumberToWord(UserNumber);
+    { 
         int count;
         int totalCount = 0;
         for (int i = 1; i <= 1000; i++)
@@ -23,7 +13,6 @@ class Zadanie1
             count = lettersOnly.Length;
             totalCount = totalCount + count;
         }
-        Console.WriteLine("Wprowadzona liczba to: " + newWord);
         Console.WriteLine("Ilość liter wykorzystana do opisania liczb od 1 do 1000 wynosi: " + totalCount);
     }
     public static string NumberToWord(int number)
