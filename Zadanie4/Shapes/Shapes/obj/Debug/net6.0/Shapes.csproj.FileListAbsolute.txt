@@ -1,0 +1,15 @@
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Users\Aleksandra\Desktop\INFORMATYKA\ROK II\Semestr 2\Języki i paradygmaty programowania\Zadanie 1 do wysłania\Zadanie4\Shapes\Shapes\obj\Debug\net6.0\ref\Shapes.dll
